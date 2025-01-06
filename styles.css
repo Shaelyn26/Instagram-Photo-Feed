@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+header {
+    text-align: center;
+}
+section {
+    background: #bdbdbd;
+    padding: 10px;
+}
+.box {
+    background: white;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+img {
+    width: 100%;
+}
+div.header {
+    padding: 6px;
+}
+div.header h2 {
+    font-size: 15px;
+    padding: 10px;
+    margin: 0;
+    display: inline-block;
+}
+div.description {
+    padding: 6px;
+}
+.box .header .date {
+    float: right;
+}
+
